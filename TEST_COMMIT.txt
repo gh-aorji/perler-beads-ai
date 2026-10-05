@@ -1,0 +1,8 @@
+# Git Push Connectivity Test
+
+Purpose : verify that git commit and git push work against origin/main
+Repo    : https://github.com/gh-aorji/pindou
+Branch  : main
+Created : 2026-10-05 by WorkBuddy connectivity check
+
+This file is a harmless test artifact and is safe to delete.
